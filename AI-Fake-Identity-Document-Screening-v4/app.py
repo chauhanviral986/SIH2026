@@ -441,7 +441,7 @@ with left:
     st.image(
         image,
         caption=uploaded_file.name,
-        use_container_width=True,
+        width='stretch',
     )
 
 with right:
