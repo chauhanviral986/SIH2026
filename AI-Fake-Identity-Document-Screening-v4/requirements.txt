@@ -1,3 +1,7 @@
 streamlit
 easyocr
-opeencv-python-headless
+opencv-python-headless
+pandas
+numpy
+Pillow
+PyMuPDF
